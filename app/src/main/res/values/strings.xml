@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">NASA APoD</string>
+  <string name="error_message">Unable to get APoD for %tF</string>
+</resources>
